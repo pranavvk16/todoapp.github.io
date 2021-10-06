@@ -4,7 +4,7 @@
 }
 .heading{
     width: 100%;
-    height: 500px;
+    height: 300px;
     font-size: 90px;
     padding:0;
     margin:0;
@@ -110,7 +110,3 @@ li{
     color: rgb(204, 58, 58);
 }
 
-
-git remote add origin https://github.com/pranavvk16/todo.github.io.git
-git branch -M main
-git push -u origin main
